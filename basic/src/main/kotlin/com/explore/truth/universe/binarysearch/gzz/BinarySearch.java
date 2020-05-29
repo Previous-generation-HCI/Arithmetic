@@ -1,4 +1,4 @@
-package com.explore.truth.universe.binarySearch.ggz;
+package com.explore.truth.universe.binarysearch.gzz;
 
 public class BinarySearch {
     public static int search(int[] intArray, int target) {
